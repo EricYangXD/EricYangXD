@@ -2,7 +2,7 @@
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=EricYangXD.EricYangXD)](https://github.com/EricYangXD)
 
-啥也不会的前端混子
+啥也不是，有发财机会请带我~~ 谢谢！
 
 **Languages:**
 
