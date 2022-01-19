@@ -212,11 +212,7 @@
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=EricYangXD&theme=radical" alt="EricYangXD" />
 </p>
 
-<p align="center">
 ![EricYangXD's github stats](https://github-readme-stats.vercel.app/api?username=EricYangXD&show_icons=true&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricYangXD&layout=compact)
-</p>
- 
- <p align="center">
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
-</p>
