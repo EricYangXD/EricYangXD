@@ -207,7 +207,7 @@
 			</a>
 		</p>
     
-<p align="center">
+<p align="left">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=EricYangXD&show_icons=true&locale=en&theme=radical" alt="EricYangXD"/>
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=EricYangXD&theme=radical" alt="EricYangXD" />
 </p>
