@@ -2,6 +2,8 @@
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=EricYangXD.EricYangXD)](https://github.com/EricYangXD)
 
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)](https://github.com/EricYangXD)
+
 啥也不是，有发财机会请带我~~ 谢谢！
 
 <h3 align="left">Languages and Tools:</h3>
