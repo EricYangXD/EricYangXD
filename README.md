@@ -12,7 +12,7 @@
 啥也不是，有发财机会请带我~~ 谢谢！
 </pre>
 
-<img align='right' src="https://giphy.com/embed/l0MYKqBTwZeJi2e5y" width="339" height="480" />
+<!-- <img align='right' src="https://giphy.com/embed/l0MYKqBTwZeJi2e5y" width="339" height="480" /> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
