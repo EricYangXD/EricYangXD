@@ -4,7 +4,15 @@
 
 [![visitors](https://komarev.com/ghpvc/?username=EricYangXD&color=green&label=visitors)](https://github.com/EricYangXD)
 
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=EricYangXD.EricYangXD)](https://github.com/EricYangXD)
+
+<pre>
+好好学习，努力搞钱，早日财务自由~~~
+
 啥也不是，有发财机会请带我~~ 谢谢！
+</pre>
+
+<iframe align='right' src="https://giphy.com/embed/l0MYKqBTwZeJi2e5y" width="339" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
