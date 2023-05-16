@@ -226,6 +226,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricYangXD&layout=compact)
 
-![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=EricYangXD&props.theme=dark&svg.width=1012&svg.height=143)
+![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=EricYangXD&props.theme=dark&svg.width=1012&svg.height=180)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
