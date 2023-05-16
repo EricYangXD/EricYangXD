@@ -224,5 +224,5 @@
 
 ![EricYangXD's github stats](https://github-readme-stats.vercel.app/api?username=EricYangXD&show_icons=true&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricYangXD&layout=compact)
-
+![](https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=EricYangXD&props.theme=dark)
 ![](./profile-3d-contrib/profile-green-animate.svg)
