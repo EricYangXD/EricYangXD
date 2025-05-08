@@ -1,7 +1,5 @@
 ### Hello there, I'm EricYangXD 👋👋👋
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=EricYangXD.EricYangXD)](https://github.com/EricYangXD)
-
 [![visitors](https://komarev.com/ghpvc/?username=EricYangXD&color=green&label=visitors)](https://github.com/EricYangXD)
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=EricYangXD.EricYangXD)](https://github.com/EricYangXD)
